@@ -13,3 +13,4 @@ Inspired by Rob Treharne from HiPy
 ![Histogram distribution showing difference in Mean Hourly Pay](https://user-images.githubusercontent.com/86897066/126901113-198ca04a-7e78-4631-8c58-6b20808ba545.png)
 ![Difference in Mean Hourly Pay (%) across different UK Cities](https://user-images.githubusercontent.com/86897066/126901114-d53e6c31-8349-432b-a110-48439b75f896.png)
 ![Difference in Mean Hourly Pay (%) across different Sectors](https://user-images.githubusercontent.com/86897066/126901116-16fe8865-d165-4eba-bbd7-ce8dcde10959.png)
+![histogram_employer_sizes](https://user-images.githubusercontent.com/86897066/139702903-071e7954-4502-4cd0-a3db-e051d53e34e4.png)
